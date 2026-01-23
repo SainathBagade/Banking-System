@@ -1,0 +1,10 @@
+ACC001|John Doe|5000.00|Checking|Active
+ACC002|Jane Smith|10000.00|Savings|Active
+ACC003|Bob Johnson|2500.00|Checking|Active
+ACC004|Alice Brown|7500.50|Savings|Active
+ACC005|Charlie Davis|3200.75|Checking|Active
+TXN1001|ACC001|Deposit|1000.00|2024-01-18|Successful
+TXN1002|ACC001|Withdrawal|500.00|2024-01-18|Successful
+TXN1003|ACC002|Transfer|2000.00|2024-01-19|Successful
+TXN1004|ACC003|Deposit|1500.00|2024-01-19|Successful
+TXN1005|ACC004|Withdrawal|300.00|2024-01-19|Successful
